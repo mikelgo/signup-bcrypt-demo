@@ -15,6 +15,6 @@ The hashed pw you would then store in your database and de-crypt if user wants t
 ### How to use
 Client and Server are tow entirely separate projects! I just packed them together in this repo for convenience.
 
-Run the Client by navigating into the folder and running npm start.
+Run the Client by navigating into the folder and running `npm start`in your terminal.
 
-Run the Server by navigating into the server folder and running node server.js.
+Run the Server by navigating into the server folder and running `node server.js` in your terminal.
